@@ -7,11 +7,11 @@
 
 ```
 
-- ()
+- () parentheses ,
 ```JS
 
 ```
-- {}
+- {} braces
 ```JS
 
 ```
@@ -38,7 +38,7 @@ var regex = new RegExp('[0-9]');  // 0-9 means 0123456789
 
 ```
 
-- ?
+- ? question mark
 ```JS
 
 ```
@@ -46,15 +46,15 @@ var regex = new RegExp('[0-9]');  // 0-9 means 0123456789
 ```JS
 
 ```
-- ^
+- ^ caret
 ```JS
 
 ```
-- +
+- + plus
 ```JS
 
 ```
-- $
+- $ dollar 
 ```JS
 
 ```
@@ -74,7 +74,7 @@ var regex = new RegExp('[0-9]');  // 0-9 means 0123456789
 ```JS
 
 ```
-- *
+- * star
 ```JS
 
 ```
@@ -86,10 +86,7 @@ var regex = new RegExp('[0-9]');  // 0-9 means 0123456789
 ```JS
 
 ```
-- $
-```JS
 
-```
 - /
 ```JS
 
