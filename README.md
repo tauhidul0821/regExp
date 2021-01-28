@@ -1,6 +1,21 @@
 # regExp
  - https://www.programiz.com/javascript/regex
 
+
+- g
+```JS
+
+```
+
+- ()
+```JS
+
+```
+- {}
+```JS
+
+```
+
 - [] square brackets specify a set of characters you wish to match.
 
 ```JS
@@ -21,27 +36,8 @@ var regex = new RegExp('[1-4]');  // 1-4 means 1234
 var regex = new RegExp('[0-39]');  // 0-39 means 01239
 var regex = new RegExp('[0-9]');  // 0-9 means 0123456789
 
-
 ```
 
-- g
-```JS
-
-```
-
-- ()
-```JS
-
-```
-- {}
-```JS
-
-```
-- []
-
-```JS
-
-```
 - ?
 ```JS
 
